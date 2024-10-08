@@ -163,7 +163,3 @@ The decoding process extracts the binary data from the image’s pixel data and 
 
 ## Conclusion
 This project demonstrates a simple yet powerful way to hide messages within an image by manipulating its pixel data. By using the Least Significant Bit (LSB) technique, the visual changes to the image are imperceptible, making this an effective method for image-based steganography.
-
----
-
-This format improves readability and makes the document visually structured and easy to follow. Let me know if you'd like any further adjustments!
